@@ -433,8 +433,8 @@ const AWARDS_DATA = {
         layout: 'certificate_grid',
         title: 'Professional Certifications',
         items: [
-            { label: 'Introduction To Generative AI — Google Cloud Skills Boost', date: '', image: '/textures/about/SOTDAYayushpatelGSAP.webp', url: 'https://cloud.google.com' },
-            { label: 'Bring AI To Work Workshop — Google Workspace', date: '', image: '/textures/about/SOTDAYayushpatelCSSWINNER.webp', url: 'https://workspace.google.com' }
+            { label: 'Introduction To Generative AI — Google Cloud Skills Boost', date: '', image: '/textures/about/SOTDAYYOUNGMULTIGSAP.webp', url: 'https://cloud.google.com' },
+            { label: 'Bring AI To Work Workshop — Google Workspace', date: '', image: '/textures/about/SOTDAYYOUNGMULTICSSWINNER.webp', url: 'https://workspace.google.com' }
         ],
         platformConfig: {
             label: 'CERTIFICATE',
@@ -447,7 +447,7 @@ const AWARDS_DATA = {
         layout: 'certificate_grid',
         title: 'Event Coordination & Leadership',
         items: [
-            { label: 'Student Coordinator Lead — 25+ Completed Events across committees at Parul University', date: '', image: '/textures/about/SOTDAYayushpatelORPETRON.webp', url: 'https://paruluniversity.ac.in' },
+            { label: 'Student Coordinator Lead — 25+ Completed Events across committees at Parul University', date: '', image: '/textures/about/SOTDAYYOUNGMULTIORPETRON.webp', url: 'https://paruluniversity.ac.in' },
         ],
         platformConfig: {
             label: 'LEADERSHIP',
@@ -460,9 +460,9 @@ const AWARDS_DATA = {
         layout: 'certificate_grid',
         title: 'Technical Hackathons & Events',
         items: [
-            { label: 'Odoo Hackathon — Student Coordinator Lead', date: '', image: '/textures/about/SOTDAYayushpatelDESIGNNOMINESS.webp', url: 'https://paruluniversity.ac.in' },
-            { label: 'TechExpo — Student Coordinator Lead', date: '', image: '/textures/about/SOTDAYayushpatelDESIGNNOMINESS.webp', url: 'https://paruluniversity.ac.in' },
-            { label: 'PU Code Hackathon — Student Coordinator Lead', date: '', image: '/textures/about/SOTDAYayushpatelDESIGNNOMINESS.webp', url: 'https://paruluniversity.ac.in' }
+            { label: 'Odoo Hackathon — Student Coordinator Lead', date: '', image: '/textures/about/SOTDAYYOUNGMULTIDESIGNNOMINESS.webp', url: 'https://paruluniversity.ac.in' },
+            { label: 'TechExpo — Student Coordinator Lead', date: '', image: '/textures/about/SOTDAYYOUNGMULTIDESIGNNOMINESS.webp', url: 'https://paruluniversity.ac.in' },
+            { label: 'PU Code Hackathon — Student Coordinator Lead', date: '', image: '/textures/about/SOTDAYYOUNGMULTIDESIGNNOMINESS.webp', url: 'https://paruluniversity.ac.in' }
         ],
         platformConfig: {
             label: 'HACKATHON',

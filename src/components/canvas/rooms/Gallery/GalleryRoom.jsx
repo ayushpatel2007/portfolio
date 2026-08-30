@@ -56,8 +56,8 @@ const FALLBACK_PROJECTS = [
     {
         id: 'passenger-attendance-system',
         title: 'PASSENGER ATTENDANCE SYSTEM',
-        front: '/textures/gallery/ayushpatelprzod.webp',
-        painted: '/textures/gallery/ayushpatelprzod_painted.webp',
+        front: '/textures/gallery/youngmultiprzod.webp',
+        painted: '/textures/gallery/youngmultiprzod_painted.webp',
         url: 'https://github.com/ayushpatel2007/bus-track-system',
         description: 'Bus passenger attendance & tracking system built with Python, HTML, JS, and Google Sheets API. Passengers scan static QR codes in buses to automatically log Name, ID, Time, and Bus Number into live Google Sheets.',
         techStack: ['/textures/gallery/jslogo.webp', '/textures/gallery/htmllogo.webp', '/textures/gallery/csslogo.webp', '/textures/gallery/tailwindlogo.webp']
@@ -92,8 +92,8 @@ const FALLBACK_PROJECTS = [
     {
         id: 'gitprofile-studio',
         title: 'GITPROFILE STUDIO',
-        front: '/textures/gallery/ayushpatelprzod.webp',
-        painted: '/textures/gallery/ayushpatelprzod_painted.webp',
+        front: '/textures/gallery/youngmultiprzod.webp',
+        painted: '/textures/gallery/youngmultiprzod_painted.webp',
         url: 'https://github.com/ayushpatel2007/gitprofile-studio',
         description: 'Next.js application generating polished GitHub profile README files from public usernames. Features profile analysis, template customization, markdown editor, and live preview.',
         techStack: ['/textures/gallery/reactlogo.webp', '/textures/gallery/tailwindlogo.webp', '/textures/gallery/jslogo.webp', '/textures/gallery/netlifylogo.webp']
