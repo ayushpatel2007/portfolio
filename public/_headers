@@ -1,33 +1,30 @@
-https://portfolio-itom.pages.dev/*
-  X-Robots-Tag: noindex
-
-https://itomdev.com/*
+https://portfolio.ayushpatel.me/*
   X-Frame-Options: DENY
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
   Permissions-Policy: camera=(), microphone=(), geolocation=()
 
 # Cache static assets for 1 year (Performance & SEO Server Score)
-https://itomdev.com/*.js
+https://portfolio.ayushpatel.me/*.js
   Cache-Control: public, max-age=31536000, immutable
 
-https://itomdev.com/*.css
+https://portfolio.ayushpatel.me/*.css
   Cache-Control: public, max-age=31536000, immutable
 
-https://itomdev.com/*.webp
+https://portfolio.ayushpatel.me/*.webp
   Cache-Control: public, max-age=31536000, immutable
 
-https://itomdev.com/*.png
+https://portfolio.ayushpatel.me/*.png
   Cache-Control: public, max-age=31536000, immutable
 
-https://itomdev.com/*.ktx2
+https://portfolio.ayushpatel.me/*.ktx2
   Cache-Control: public, max-age=31536000, immutable
 
-https://itomdev.com/*.glb
+https://portfolio.ayushpatel.me/*.glb
   Cache-Control: public, max-age=31536000, immutable
 
-https://itomdev.com/*.mp3
+https://portfolio.ayushpatel.me/*.mp3
   Cache-Control: public, max-age=31536000, immutable
 
-https://itomdev.com/fonts/*
+https://portfolio.ayushpatel.me/fonts/*
   Cache-Control: public, max-age=31536000, immutable

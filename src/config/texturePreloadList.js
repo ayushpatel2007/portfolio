@@ -139,7 +139,7 @@ export const GALLERY_TEXTURES_VERSIONED = [
     // Project cards
     'monetuneprzod',
     'timberkittyprzod',
-    'youngmultiprzod',
+    'ayushpatelprzod',
     'bioprzod',
     // Card back
     'tylkartki',
@@ -191,10 +191,10 @@ export const ABOUT_TEXTURES = [
     '/textures/about/button.webp',
     '/textures/about/button_painted.webp',
     // Award images (for overlay)
-    '/textures/about/SOTDAYYOUNGMULTICSSWINNER.webp',
-    '/textures/about/SOTDAYYOUNGMULTIGSAP.webp',
-    '/textures/about/SOTDAYYOUNGMULTIORPETRON.webp',
-    '/textures/about/SOTDAYYOUNGMULTIDESIGNNOMINESS.webp',
+    '/textures/about/SOTDAYayushpatelCSSWINNER.webp',
+    '/textures/about/SOTDAYayushpatelGSAP.webp',
+    '/textures/about/SOTDAYayushpatelORPETRON.webp',
+    '/textures/about/SOTDAYayushpatelDESIGNNOMINESS.webp',
     // Journey islands
     '/textures/about/uowyspa.webp',
     '/textures/about/freelancewyspa.webp',

@@ -6,10 +6,10 @@ const BACKUP_DIR = './public/textures/about/backups';
 const TARGET_DIR = './public/textures/about';
 
 const SOTD_FILES = [
-  'SOTDAYYOUNGMULTICSSWINNER.webp',
-  'SOTDAYYOUNGMULTIDESIGNNOMINESS.webp',
-  'SOTDAYYOUNGMULTIGSAP.webp',
-  'SOTDAYYOUNGMULTIORPETRON.webp'
+  'SOTDAYayushpatelCSSWINNER.webp',
+  'SOTDAYayushpatelDESIGNNOMINESS.webp',
+  'SOTDAYayushpatelGSAP.webp',
+  'SOTDAYayushpatelORPETRON.webp'
 ];
 
 async function fixAwardsToSquarePOT() {
