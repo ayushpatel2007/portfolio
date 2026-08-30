@@ -304,6 +304,8 @@ export const skillCategories = [
 
 export const contactInfo = {
   email: "patelayush20@outlook.com",
+  phone: "+91 8374688927",
+  phoneCallUrl: "tel:+918374688927",
   github: "https://github.com/ayushpatel2007",
   linkedin: "https://www.linkedin.com/in/ayushpatel2037/",
   resumePath: "/assets/Ayush_Patel_resume.pdf"

@@ -318,6 +318,20 @@ const ContactRoom = ({ showRoom, onReady, isExiting, isWarmup }) => {
                 paintOnBeforeCompile={onBeforeCompile}
                 paintUniforms={uniformsData}
             />
+            {/* CALL ME / PHONE */}
+            <SocialBarrel
+                position={isMobile ? [1.5, -0.3, -7] : [5, -0.3, -8]}
+                rotation={[0, -0.3, 0]}
+                texturePath="/textures/contact/beczka.webp"
+                label="CALL ME"
+                onClick={() => {
+                    unlockAchievement('contact_choose');
+                    unlockAchievement('contact_submit');
+                    window.location.href = 'tel:+918374688927';
+                }}
+                paintOnBeforeCompile={onBeforeCompile}
+                paintUniforms={uniformsData}
+            />
             {/* EMAIL AYUSH */}
             <SocialBarrel
                 position={isMobile ? [0, -0.7, -6] : [0, -0.7, -7]}

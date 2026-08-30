@@ -62,9 +62,21 @@ const ContactRoom = ({ active = true, position = [14, 0, -62] }) => {
           DIRECT COMMUNICATION & RESUME ACCESS
         </Text>
 
+        {/* Phone Call Display */}
+        <Text
+          position={[0, 0.9, 0.08]}
+          fontSize={0.16}
+          color="#00ff88"
+          font="https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hjp-Ek-_EeA.woff"
+          anchorX="center"
+          anchorY="middle"
+        >
+          📞 PHONE: {contactInfo.phone}
+        </Text>
+
         {/* Email Display */}
         <Text
-          position={[0, 0.7, 0.08]}
+          position={[0, 0.4, 0.08]}
           fontSize={0.16}
           color="#ffffff"
           font="https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hjp-Ek-_EeA.woff"
@@ -76,7 +88,7 @@ const ContactRoom = ({ active = true, position = [14, 0, -62] }) => {
 
         {/* GitHub Link Display */}
         <Text
-          position={[0, 0.2, 0.08]}
+          position={[0, -0.1, 0.08]}
           fontSize={0.16}
           color="#00ff88"
           font="https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hjp-Ek-_EeA.woff"
@@ -88,14 +100,14 @@ const ContactRoom = ({ active = true, position = [14, 0, -62] }) => {
 
         {/* LinkedIn Link Display */}
         <Text
-          position={[0, -0.3, 0.08]}
+          position={[0, -0.6, 0.08]}
           fontSize={0.16}
           color="#00ff88"
           font="https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hjp-Ek-_EeA.woff"
           anchorX="center"
           anchorY="middle"
         >
-          🔗 LINKEDIN: linkedin.com/in/ayushpatel-automation
+          🔗 LINKEDIN: linkedin.com/in/ayushpatel2037
         </Text>
 
         {/* Instructions Badge */}
